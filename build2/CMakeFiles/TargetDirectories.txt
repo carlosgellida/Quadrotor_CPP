@@ -1,0 +1,3 @@
+/media/carlos/Interchange/Documentos/Artículo_Dinámica/Simulador_C++/Proyecto5/build2/CMakeFiles/rebuild_cache.dir
+/media/carlos/Interchange/Documentos/Artículo_Dinámica/Simulador_C++/Proyecto5/build2/CMakeFiles/multibody.dir
+/media/carlos/Interchange/Documentos/Artículo_Dinámica/Simulador_C++/Proyecto5/build2/CMakeFiles/edit_cache.dir

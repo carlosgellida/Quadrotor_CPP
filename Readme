@@ -1,0 +1,9 @@
+This is a program to simulate the dynamic of a rigid body system
+it was code by Carlos Gellida
+
+To run the program follow next steps:
+1.- Open a terminal
+2.- enter: "cd build"
+3.- enter: "cmake .."
+4.- enter: "make"
+5.- enter: "./multibody"
